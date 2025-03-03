@@ -1,0 +1,51 @@
+/* استایل برای بخش شبکه‌های اجتماعی و لینک‌های مهم */
+.social-and-links {
+  background-color: #f4f4f9;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.social-and-links h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 10px;
+  color: #003366;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #ff6600;
+}
+
+.important-links h3 {
+  font-size: 1.5rem;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.important-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.important-links ul li {
+  margin: 10px 0;
+}
+
+.important-links ul li a {
+  text-decoration: none;
+  color: #003366;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.important-links ul li a:hover {
+  color: #ff6600;
+}
